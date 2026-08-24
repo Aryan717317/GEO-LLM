@@ -845,7 +845,7 @@ Content-Type: application/json
 
 ## 🤝 Project Contributors
 
-- **Pranay Lohar** - Full-Stack Development, Architecture Design
+- **Aryan bharat kumar** - Full-Stack Development, Architecture Design
 - **AI/ML Integration** - LLM pipeline, RAG implementation
 - **Geospatial Analysis** - Google Earth Engine integration
 - **Frontend Development** - Next.js UI, interactive mapping

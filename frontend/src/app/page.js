@@ -1309,7 +1309,7 @@ export default function Home() {
                 </svg>
               </div>
               <div className="flex-1">
-                <p className="text-white text-base font-semibold">Pranay</p>
+                <p className="text-white text-base font-semibold">Aryan bharat kumar</p>
               </div>
             </div>
             {/* Notification Indicator */}
